@@ -153,6 +153,12 @@ section h1
     margin-left: auto;
     padding-top: 10px;
 }
+@media (max-width: 768px) {
+  #contact a
+{
+    width: 300px;
+}
+}
 #contact  a:hover
 {
     background-color: #0f949b;
